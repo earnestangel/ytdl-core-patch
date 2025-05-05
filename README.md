@@ -1,3 +1,9 @@
+# ytdl-core-patch
+Use this to (temporary) fix the ongoing issue with ytdl-core plugin.
+All credits to the original authors.
+
+---
+
 # @distube/ytdl-core
 
 DisTube fork of `ytdl-core`. This fork is dedicated to fixing bugs and adding features that are not merged into the original repo as soon as possible.
